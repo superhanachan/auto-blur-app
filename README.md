@@ -66,11 +66,11 @@ python main.py
    - 進行状況はプログレスバーに表示され、途中で「キャンセル」することも可能です。
    - 長時間の動画でも、逐次フレームを処理してファイルに書き込むため、メモリリークは発生しません。
 
-## ���C�Z���X (License)
-�{�\�t�g�E�F�A�� **GNU Affero General Public License v3.0 (AGPL-3.0)** �̉��Ō��J����Ă��܂��B�ڍׂɂ��Ă� LICENSE �t�@�C�������Q�Ƃ��������B
+## ライセンス (License)
+本ソフトウェアは **GNU Affero General Public License v3.0 (AGPL-3.0)** の下で公開されています。詳細については `LICENSE` ファイルをご参照ください。
 
-### �T�[�h�p�[�e�B���C�Z���X
-�{�\�t�g�E�F�A�͈ȉ��̃I�[�v���\�[�X���C�u�������g�p���Ă��܂��F
+### サードパーティライセンス
+本ソフトウェアは以下のオープンソースライブラリを使用しています：
 - **Ultralytics (YOLOv8)**: AGPL-3.0
 - **PyQt6**: GPLv3
 - **Supervision**: MIT License
